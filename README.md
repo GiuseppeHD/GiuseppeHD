@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Giuseppe Sciuto
 
-<!--
-**GiuseppeHD/GiuseppeHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Lead · Backend & Cloud Architect · .NET / Angular
 
-Here are some ideas to get you started:
+I design and build **scalable, secure, production-grade systems** with a strong focus on **clean architecture and developer experience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- 🏗️ Architect and lead **.NET microservices** in production
+- 🚀 Build modern **Angular (standalone)** frontends
+- 🔐 Design **secure, multi-tenant systems** (ABP, PostgreSQL, Redis)
+- 🌐 API Gateways with **YARP**
+- 🐳 Dockerized environments & CI/CD pipelines
+
+## 🛠 Tech Stack
+
+**Backend**
+- .NET 8 / ASP.NET Core
+- ABP Framework
+- PostgreSQL · Redis
+- YARP · REST APIs
+
+**Frontend**
+- Angular 20
+- DevExtreme
+- RxJS · TypeScript
+
+**DevOps**
+- Docker · GitHub Actions
+- Linux · Nginx
