@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giuseppe Sciuto
+# 👋 Hi, I'm Giuseppe
 
 ### Tech Lead · Backend & Cloud Architect · .NET / Angular
 
